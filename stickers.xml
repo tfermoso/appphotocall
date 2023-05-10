@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+
+	
+	<category thumbnail='0'>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_1.png</thumbnail>
+			<image>assets/stickers/images/beard_1.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_2.png</thumbnail>
+			<image>assets/stickers/images/beard_2.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_3.png</thumbnail>
+			<image>assets/stickers/images/beard_3.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_4.png</thumbnail>
+			<image>assets/stickers/images/beard_4.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_5.png</thumbnail>
+			<image>assets/stickers/images/beard_5.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_6.png</thumbnail>
+			<image>assets/stickers/images/beard_6.png</image>
+		</item>
+		<item>
+			<thumbnail>assets/stickers/thumbnails/beard_7.png</thumbnail>
+			<image>assets/stickers/images/beard_7.png</image>
+		</item>
+	</category>
+	
+
+</categories>
